@@ -1,4 +1,4 @@
-# 📊 Adidas-Sales-Analysis: Deep dive into sales insights
+# 📊 Adidas Sales Analysis: Deep dive into sales insights
 
 ## 📌 KEY FINDINGS:
 
